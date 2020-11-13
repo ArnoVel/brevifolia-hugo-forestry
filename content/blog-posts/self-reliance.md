@@ -8,7 +8,7 @@ type = "blog"
 +++
 # The few things I know about git
 
-At work, people use \[gerrit\]([https://www.gerritcodereview.com/](https://www.gerritcodereview.com/ "gerrit")). I'm not too sure how it differs from the classic version control & Github, so let's go ahead anyway.
+At work, people use [https://www.gerritcodereview.com/](https://www.gerritcodereview.com/ "gerrit"). I'm not too sure how it differs from the classic version control & Github, so let's go ahead anyway.
 
 ### Seeing past changes and where you're at
 
