@@ -11,4 +11,4 @@ contact_info:
 type: ''
 
 ---
-## This is Arno's tiny blog
+## What I do at work, and sometimes at home
