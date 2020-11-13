@@ -34,4 +34,4 @@ Now, one usually proceeds by taking the code that's on the remote server, and co
 
 This assume the branch is already known. If someone tells you the branch / you know the branch name but the above command does not work, do the following (works for gerrit)
 
-    $ git 
+    $ git pull --rebase <branch-name>
