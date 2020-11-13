@@ -35,3 +35,13 @@ Now, one usually proceeds by taking the code that's on the remote server, and co
 This assume the branch is already known. If someone tells you the branch / you know the branch name but the above command does not work, do the following (works for gerrit)
 
     $ git pull --rebase <branch-name>
+
+At this point, all your local modifications should disappear. This is not a problem, only a way to prepare for the most important step: **merging**.
+
+### Merging both versions
+
+Your changes are stashed, the only thing needed to apply those is the command
+
+    $ git stash pop
+
+After this command, you'll usually have issues with files which are different on the remote than in your machine: you should now go through the merging process. To do so, make sure you have some merge-related tool such as **Meld** ([https://meldmerge.org/](https://meldmerge.org/ "meld")) to solve the issues.
