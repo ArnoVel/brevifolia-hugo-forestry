@@ -19,11 +19,11 @@ sections:
 - type: document
   path: content/data/authors.yaml
   label: Authors List
-- type: heading
-  label: Config
 - type: document
   path: themes/tale-theme/data/Settings.toml
   label: Design Settings
+- type: heading
+  label: Config
 - type: document
   path: config.toml
   label: Site Config
