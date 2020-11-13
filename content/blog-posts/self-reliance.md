@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Arno V"
 date = 2020-11-13T20:00:00Z
 hero = "/images/yancy-min-842ofhc6mai-unsplash.jpg"
 title = "My first git usage at work"
